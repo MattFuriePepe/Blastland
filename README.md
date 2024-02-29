@@ -1,2 +1,1 @@
-# Blastland
-Blast Land is a open sandbox metaverse
+ERC424 is compatible with Erc20 and ERC721, has spatial positioning, and is compatible with the inscription protocol.
